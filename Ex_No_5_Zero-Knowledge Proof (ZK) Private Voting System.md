@@ -57,6 +57,8 @@ contract ZKVoting {
 
 ```
 # Expected Output:
+![alt text](<Screenshot 2025-04-26 094334.png>)
+![alt text](<Screenshot 2025-04-26 094422.png>)
 Voters commit their votes privately.
 
 
