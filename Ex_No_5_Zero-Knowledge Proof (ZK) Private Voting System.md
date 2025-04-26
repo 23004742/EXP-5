@@ -79,3 +79,4 @@ Prevents vote tampering while maintaining voter privacy.
 Mimics real-world ZK voting applications in governance and DAOs.
 
 # RESULT: 
+Thus,the execution of Zk Private Voting System has executed Successfully.
